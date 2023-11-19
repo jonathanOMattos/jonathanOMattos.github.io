@@ -1,0 +1,39 @@
+#banner-home {
+    display: flex;
+    flex-direction: row;
+}
+
+#banner-home-box-black {
+    background: black;
+    width: 60%;
+    height: 600px;
+}
+
+#banner-home-box-red {
+    background-color: red;
+    width: 40%;
+    height: 600px;
+}
+
+#banner-home-title {
+    font-size: 32px;
+    color: white;
+
+}
+
+#banner-home-subtitle {
+    font-size: 24px;
+}
+
+#banner-home-box-title {
+    width: 400px;
+    margin: 150px auto 0px;
+    border: 1px solid white;
+    padding: 32px;
+}
+
+#banner-home-image {
+    margin: 150px auto 0px;
+    width: 500px;
+    display: flex;
+}
